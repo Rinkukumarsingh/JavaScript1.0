@@ -1,0 +1,29 @@
+.btn {
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+
+.btn2 {
+    background-color: blue;
+    color: white;
+    height: 100px;
+    width: 100px;
+}
+#btnBox{
+    display: flex;
+    gap: 20px;
+    background-color: rgb(119, 255, 0);
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+
+#btnPlus{
+    margin: 180px 180px;
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
