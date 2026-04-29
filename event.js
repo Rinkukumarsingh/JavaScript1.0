@@ -15,3 +15,5 @@ let btn3 = document.querySelector("#btnBox");
 btn3.ondblclick = () =>{
     console.log("Button 3 double clicked");
 }
+
+// added comment for git commit
