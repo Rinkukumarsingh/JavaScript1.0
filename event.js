@@ -18,3 +18,5 @@ btn3.ondblclick = () =>{
 
 // added comment for git commit
 // added comment from feature branch to master branch.
+
+// merging changes using git merge command.
